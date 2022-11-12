@@ -76,3 +76,16 @@ It is known that in a certain month has high total orders and low total order. L
 On three days at the beginning of the month, 1st and 3rd date there was an increase in orders. Also in the middle of the month, which is on the 15th to 18th, there is also an increase in orders. Meanwhile on W4 which is the 24th to the 30th there is a decrease in orders.
 
 # RFM Analysis
+- How create customer segmentation using RFM Quartile ?
+RFM analysis is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns.
+
+RFM analysis ranks each customer on the following factors:
+- Recency. How recent was the customer's last purchase? Customers who recently made a purchase will still have the product on their mind and are more likely to purchase or use the product again. Businesses often measure recency in days. But, depending on the product, they may measure it in years, weeks or even hours.
+- Frequency. How often did this customer make a purchase in a given period? Customers who purchased once are often are more likely to purchase again. Additionally, first time customers may be good targets for follow-up advertising to convert them into more frequent customers.
+- Monetary. How much money did the customer spend in a given period? Customers who spend a lot of money are more likely to spend money in the future and have a high value to a business.
+
+# Modeling Data : RFM Quantiles
+- We split the metrics into segments using quantiles.
+- We will assign a score from 1 to 4 to each Recency, Frequency and Monetary respectively.
+- 1 is the highest value, and 4 is the lowest value.
+- A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
