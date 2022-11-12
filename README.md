@@ -77,6 +77,7 @@ On three days at the beginning of the month, 1st and 3rd date there was an incre
 
 # RFM Analysis
 - How create customer segmentation using RFM Quartile ?
+
 RFM analysis is a marketing technique used to quantitatively rank and group customers based on the recency, frequency and monetary total of their recent transactions to identify the best customers and perform targeted marketing campaigns.
 
 RFM analysis ranks each customer on the following factors:
@@ -89,3 +90,17 @@ RFM analysis ranks each customer on the following factors:
 - We will assign a score from 1 to 4 to each Recency, Frequency and Monetary respectively.
 - 1 is the highest value, and 4 is the lowest value.
 - A final RFM score (Overall Value) is calculated simply by combining individual RFM score numbers.
+
+![download](https://user-images.githubusercontent.com/113870155/201454648-3b43c9d5-2890-4d89-bb16-7517cf48094e.png)
+
+- How many customers based on label defined such as Loyal Customer, Big Spenders, Lost Cheap Customers, Best Customers and Almost Lost ?
+
+Based on the results of Customer segmentation using RFM Quartile, customers are divided into 6 segments. Namely, Loyal Customers, Big Spenders, Lost Cheap Customers, Lost Customers, Best Customers and Almost Lost.
+
+
+33.59% from 384 customers or 129 customers are grouped into **Loyal Customers**. In this segment, customers have the highest order frequency than other segments.
+33.59% from 384 customers or 125 customers are grouped into **Big Spenders**. In this segment, the customer has the highest total order than to other segments.
+17.45% from 384 customers or 67 customers are grouped into **Lost Cheap Customers**. In this segment, customers are identified that churn because they haven't ordered for a long time, the frequency and total orders is also lower than other segments.
+8.07% from 384 customers or 31 customers are grouped into **Lost Customers**. In this segment, the customers behavior are almost the same with the lost customers segment.
+7.81% from 384 customers or 30 customers are grouped into **Best Customers**. In this segment the customers recently orders, has a high order frequency and a high total order too.
+0.52% from 384 customers or 2 customers are grouped into **Almost Lost**. In this segment the customer recently orders but the order frequency and total of orders is low.
