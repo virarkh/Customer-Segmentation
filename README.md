@@ -104,3 +104,11 @@ Based on the results of Customer segmentation using RFM Quartile, customers are 
 8.07% from 384 customers or 31 customers are grouped into **Lost Customers**. In this segment, the customers behavior are almost the same with the lost customers segment.
 7.81% from 384 customers or 30 customers are grouped into **Best Customers**. In this segment the customers recently orders, has a high order frequency and a high total order too.
 0.52% from 384 customers or 2 customers are grouped into **Almost Lost**. In this segment the customer recently orders but the order frequency and total of orders is low.
+
+# Recommendations
+We give recommendations for each segment. First, we recommend to Loyal Customer segment to maintain the engagement, increase the recency and monetary with create a program like loyalty points that increase purchase, giving customers cashback or free shipping voucher, make sale program when big event such as christmas, new year, black friday, etc. Offering product with expensive prices that they might want to buy.
+Second, we recommend for Big Spenders segment to increase the loyalty by making loyalty points program, the points can be exchange with reward or other benefit, offering budling product that Big Spenders customers may like, that buy 2 or more product in package is cheaper than the total price every item combined.
+Third, we recommend for Lost Cheap Customer segment, that this segment customers is churn. So, better focus on acquiring new customers.
+Then, for Lost Customer segment in the verge of churn, decrease this segment by recommend things on sale that they buy in the past and focus on acquiring new customers.
+And then for Best Customer segment to increase this segment by offering products they like, purchased, and sale. Making loyalty points program, the points can be exchange with reward or other benefit that only Best Customer can get, such as different cashback and free shipping voucher than other customers.
+The last, for Almost Lost segment, business team can increase frequency by recommend things that they may like or purchased and on sale. Giving them free shipping voucher with non-minimum purchase.
