@@ -99,7 +99,13 @@ Based on the results of Customer segmentation using RFM Quartile, customers are 
 0.52% from 384 customers or 2 customers are grouped into **Almost Lost**. In this segment the customer recently orders but the order frequency and total of orders is low.
 
 # Result
-
+- In **2011** total order reach out around 484.26K, then in **2012 it decreased** up to 2.83% so that there were only around 470.5K total products order. Meanwhile, in **2013 there was an increase** in orders reach out around 29.31% or total order up to 608.47K and in **2014 also an increase** of 20.63% so that the total order product reach out around 734K.
+- In **2011**, total orders around **484.26K**, which the **highest orders** occurred in September 2011 with growth up to **193.03%** meanwhile the **lowest orders** occurred in February 2011 with a decrease up to **65%**. 
+- In **2012** total orders around **470.5K**, in this year (2012) there was a 2.8% **decrease** in orders.  Which the **highest orders** occurred in March 2012 with growth up to **215.04%** meanwhile the **lowest orders** occurred in January 2012 with a decrease up to **73.87%**.
+- In **2013** total orders around **608.47K**, in this year (2013) there was a 29.31% **increase** in orders.  Which the **highest orders** occurred in March 2013 with growth up to **215.04%** meanwhile the **lowest orders** occurred in January 2013 with a decrease up to **75.25%**. 
+- In **2014** total orders around **734K**, in this year (2014) there was a 20.63% **increase** in orders.  Which the **highest orders** occurred in March 2014 with growth in orders of **165.77%** meanwhile the **lowest orders** occurred in January 2014 with a decrease up to **54.02%**. 
+- The **highest total** orders from 2011 to 2014 occurred in November and December, while the **lowest total** orders from 2011 to 2014 occurred in January and February.
+- On three days at the beginning of the month, **1st and 3rd date** there was an **increase** in orders. Also in the middle of the month, which is on the 15th to 18th, there is also an increase in orders. Meanwhile on W4 which is the **24th to the 30th** there is a **decrease** in orders.
 
 # Recommendations
 We give recommendations for each segment. First, we recommend to **Loyal Customer** segment to maintain the engagement, increase the recency and monetary with create a program like loyalty points that increase purchase, giving customers cashback or free shipping voucher, make sale program when big event such as christmas, new year, black friday, etc. Offering product with expensive prices that they might want to buy. <br>
